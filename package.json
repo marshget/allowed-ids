@@ -1,4 +1,13 @@
 {
   "name": "allowed-ids",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "vercel build",
+    "start": "vercel start"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "vercel": "^27.0.0"
+  }
 }
