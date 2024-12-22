@@ -12,7 +12,8 @@ return {
   841278,
   838254,
   672784,
-  26524
+  26524,
+  619603 --trial sampai akhir tahun--
 }
 
 
