@@ -13,8 +13,6 @@ return {
   838254,
   672784,
   26524,
-  619603, --trial sampai akhir tahun-- 
-  112370, --trial sampai akhir tahun--
   100905,
   865965,
   448752,
