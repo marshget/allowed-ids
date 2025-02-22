@@ -17,7 +17,8 @@ return{
 40549,
 251549,
 58446,
-161777
+161777,
+917069
 }
 
 --[[.rasdio, uidnya belum ke list, hilang]]--
