@@ -1,1 +1,1 @@
-return {321}
+return ['123']
