@@ -23,5 +23,3 @@ return{
 906598,
 373430
 }
-
---[[.rasdio, uidnya belum ke list, hilang]]--
