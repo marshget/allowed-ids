@@ -1,1 +1,1 @@
-return {}
+return {12345}
